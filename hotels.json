@@ -1,0 +1,38 @@
+[
+    {
+        "hotel_id": "H001",
+        "name": "Sunset",
+        "location": "Up",
+        "rooms": {
+            "101": "available",
+            "102": "reserved"
+        }
+    },
+    {
+        "hotel_id": "H001",
+        "name": "Sunrise Hotel",
+        "location": "Downtown",
+        "rooms": {
+            "101": "available",
+            "102": "reserved"
+        }
+    },
+    {
+        "hotel_id": "H001",
+        "name": "Sunrise Hotel",
+        "location": "Downtown",
+        "rooms": {
+            "101": "available",
+            "102": "reserved"
+        }
+    },
+    {
+        "hotel_id": "H001",
+        "name": "Sunrise",
+        "location": "Down",
+        "rooms": {
+            "101": "ava",
+            "102": "res"
+        }
+    }
+]

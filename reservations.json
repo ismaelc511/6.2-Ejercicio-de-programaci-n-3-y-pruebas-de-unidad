@@ -1,0 +1,26 @@
+[
+    {
+        "reservation_id": "R001",
+        "customer_id": "C001",
+        "hotel_id": "H001",
+        "room_number": 101,
+        "start_date": "2024-03-01",
+        "end_date": "2024-03-05"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "room_number": 101,
+        "start_date": "2024-03",
+        "end_date": "2024-03"
+    },
+    {
+        "reservation_id": "R2",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "room_number": 102,
+        "start_date": "2024-03",
+        "end_date": "2024-03"
+    }
+]

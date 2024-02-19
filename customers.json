@@ -1,0 +1,18 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "A",
+        "contact_info": "alice.cooper@example.com",
+        "contact": "a@h.com"
+    },
+    {
+        "customer_id": "C001",
+        "name": "Alice Johnson",
+        "contact_info": "alice@example.com"
+    },
+    {
+        "customer_id": "C001",
+        "name": "Alice Johnson",
+        "contact_info": "alice@example.com"
+    }
+]
